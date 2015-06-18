@@ -1,3 +1,6 @@
+# Encomenda Festa Website Project
+by Weslley A. Harakawa
+
 ABOUT THIS PROJECT
 Encomenda Festa website project has been published for the first time on 2009 and hosting on the domain ENCOMENDAFESTA.COM
 This project was archived in 2011 by customer request and now it is available only for portfolio and presentation purpose.

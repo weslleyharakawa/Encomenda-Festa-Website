@@ -1,0 +1,300 @@
+body {
+	font-size : 90%;
+	font-family : Arial, sans-serif;
+	color : #3D5066;
+	margin:2% 5%;
+}
+td {
+	font-size : 1em;
+	font-family : Verdana, Arial, sans-serif;
+	color : #3D5066;
+}
+
+a{
+	color: #005CB1;
+	text-decoration: underline;
+}
+a:visited{
+	color: #005CB1;
+	text-decoration: underline;
+}
+a:active{
+	color: #FFA000;
+	text-decoration: underline;
+}
+a:hover, a:focus{
+	color: #FF6E00;
+	text-decoration: none;
+}
+a.normal {
+   	color : #005CB1; 
+   	text-decoration: underline; 
+}
+a.menulink {
+   	font-size : 1em;
+   	font-family : Verdana, Arial, sans-serif;  
+   	text-decoration : none;
+   	color: #005CB1; 
+}
+.menulink:visited {
+   	color: #005CB1;
+	text-decoration: none; 
+}
+a.menulink:visited {
+   	color: #005CB1;
+	text-decoration: none; 
+}
+a.menulink:active {
+   	color: #FFA000;
+	text-decoration: none; 
+}
+a.menulink:hover,a.menulink:focus {
+   	color: #FF6E00;
+	text-decoration: underline; 
+}
+.menulink2 {
+	font-size : 1em;
+	font-family : Verdana, Arial, sans-serif;
+	text-decoration : none;
+	color: #005CB1;
+}
+a.menulink2 {
+   	font-size : 1em;
+   	font-family : Verdana, Arial, sans-serif; 
+   	text-decoration : none;
+   	color: #005CB1;
+}
+a.menulink2:visited {
+   	color: #005CB1;
+	text-decoration: none;
+}
+a.menulink2:active {
+   	color: #FFA000;
+	text-decoration: none;
+}
+a.menulink2:hover,a.menulink2:focus {
+   	color: #FF6E00;
+	text-decoration: underline;
+}
+#header{
+	text-align:center;
+	border: 1px solid #e5e5e5;
+	background:#f9f9f9;
+}
+h2,h3{
+	background:#f9f9f9;
+	border: 1px solid #e5e5e5;
+	padding-left:2px;
+}
+
+.textbox {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	background-color: #f7f7f7;
+	border: 1px solid #aaaaaa;
+}
+.graybutton {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	background-color: eeeeee;
+	border: 1px solid aaaaaa;
+	clip:  rect(1px 1px 1px 1px);
+	font-weight: normal;
+	text-decoration: none;
+	color: #333333;
+
+
+}
+.orange {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF9900;
+	text-decoration: none;
+}
+form {
+	margin: 0px;
+}
+
+
+.lbut {
+font-size: 1em;
+letter-spacing:0.1em;
+font-family: Arial;
+color: #fff;
+border: 1px solid #AAA;
+background-color: #6093C9;
+padding:2px 5px;
+}
+
+
+
+.center{
+	text-align:center;
+}
+.clear{
+	clear:both;
+}
+
+ul#main-nav{
+	list-style:none;
+	display:block;
+}
+ul#main-nav li{
+	float:left;
+	padding:0 10px 0 0;
+}
+
+ul#main-nav li img{
+	border:0;
+	margin:0;
+	padding:0 1px;
+}
+ul#sec-nav{
+	list-style:none;
+	display:block;
+}
+ul#sec-nav li{
+	float:left;
+	padding:0 10px 0 0;
+}
+
+ul#sec-nav li img{
+	border:0;
+	margin:0;
+	padding:0 1px;
+}
+
+a:link img{
+	border:0;
+}
+table#subscribers{
+	width:100%;
+	border-collapse:collapse;
+}
+#tsubscribers{
+	margin:0 10%;
+}
+p.send-subscribers{
+	font-style:italic;
+	text-align:right;
+	margin:2px 0;
+}
+table#subscribers td, table#subscribers th{
+	padding:2px 0 2px 2px;
+	border:1px solid #969696;
+}
+div.message{
+	text-align:center;
+	background:#fff2be;
+	color:#000;
+	margin-top:3px;
+	padding:2px;
+}
+
+img{
+	border:0;
+}
+
+div.sending{
+	font-size:1.3em;
+	border:1px solid red;
+	background:#f9f9f9;
+}
+tr.odd{
+	background:#f9f9f9;
+}
+tr.even{
+	background:#fff;
+}
+table#listnews{
+	width:50%;
+	margin:10px auto;
+	border-collapse:collapse;
+}
+table#listnews td, table#listnews th{
+	padding:2px 0 2px 2px;
+	border:1px solid #969696;
+}
+#credits{
+	border: 1px solid #e5e5e5;
+	padding:2px;
+	margin-top:5px;
+	background: #f9f9f9;
+	text-align:center;
+}
+#pageform label,#pageform span.lab{
+	width:15em;
+	float:left;
+}
+
+#pageform input, #pageform textarea{
+	margin:4px 0;
+}
+#pageform div.radio-cont{
+width:90%;
+margin:15px 0;
+clear: left;
+}
+#pageform div.radio-cont label input{
+	margin-right:2px;
+	vertical-align:middle;
+}
+#pageform div.radio-cont label{
+	width:5em;
+}
+
+#page5 #pageform span.lab2{
+	display:block;
+}
+#page5 #pageform div.radio-cont{
+	padding-bottom:20px;
+}
+#page5 #pageform div.radio-cont label{
+	width:12em;
+}
+#page5 #pageform #stab1,#page5 #pageform #stab2,#page5 #pageform #stab3{
+clear:both;
+}
+
+#sendthemail form input,#sendthemail form textarea{
+	margin:3px 0;
+}
+#sendthemail #messagetext{
+	width:95%;
+}
+#sendthemail #subject{
+	width:80%;
+}
+fieldset{
+	border:1px solid #e5e5e5;
+}
+#import{
+	float:right;
+	text-align:right;
+	margin:2px;
+}
+form.editform{
+	width:45%;
+	float:left;
+}
+form.editform input{
+	font-size:1em;
+}
+form.editform #submit,form.editform #submit2{
+	font-size:1em;
+}
+div.prev-next{
+	width:80%;
+	margin:0 auto;
+	padding:5px 0 10px 0;
+}
+div.prev-next div{
+	float:left;
+}
+div.prev-next form{
+	text-align:center;
+	width:23em;
+}
+select, option{
+	font-size:1em;
+}

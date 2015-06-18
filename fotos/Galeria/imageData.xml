@@ -1,0 +1,486 @@
+<SIMPLEVIEWER_DATA imagePath="./Galeria/images/" thumbPath="./Galeria/thumbs/" maxImageDimension="580" textColor="0x758B31" frameColor="0x758B31" backgroundColor="0xFFFFFF" frameWidth="5" stagePadding="40" thumbnailColumns="7" thumbnailRows="1" navPosition="top" navDirection="LTR" isPublished="true" title="Galeria">
+	<IMAGE>
+		<NAME>_salpicao.jpg</NAME>
+		<CAPTION><![CDATA[Salpicao]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>bolinho_de_bacalhau6.JPG</NAME>
+		<CAPTION><![CDATA[Bolinho de Bacalhau]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>bolocasamento.jpg</NAME>
+		<CAPTION><![CDATA[Bolo de Casamento]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>ef_bolo_aniversario000.jpg</NAME>
+		<CAPTION><![CDATA[Bolo Infantil Bonequinha]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>ef_bolo_aniversario001.jpg</NAME>
+		<CAPTION><![CDATA[Bolo Infantil Autorama]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>ef_bolo_aniversario002.jpg</NAME>
+		<CAPTION><![CDATA[Bolo Infantil Fazendinha]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>ef_bolo_aniversario003.jpg</NAME>
+		<CAPTION><![CDATA[Bolo Infantil Fazendinha 2]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>ef_bolo_aniversario004.jpg</NAME>
+		<CAPTION><![CDATA[Bolo Infantil Fadinhas]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>ef_bolo_aniversario005.jpg</NAME>
+		<CAPTION><![CDATA[Bolo Infantil Jardim]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>ef_bolo_aniversario006.jpg</NAME>
+		<CAPTION><![CDATA[Bolo Infantil Minie]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>ef_bolo_aniversario007.jpg</NAME>
+		<CAPTION><![CDATA[Bolo Infantil Moranguinho]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>ef_bolo_aniversario008.jpg</NAME>
+		<CAPTION><![CDATA[Bolo Infantil Scubi Doo]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>bolofuba.jpg</NAME>
+		<CAPTION><![CDATA[Bolo de fub&#225;]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>canjica_.jpg</NAME>
+		<CAPTION><![CDATA[Canjica]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>coxinhas.jpg</NAME>
+		<CAPTION><![CDATA[Coxinhas]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>costelinha_de_porco.JPG</NAME>
+		<CAPTION><![CDATA[Costelinha de porco]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>empadao_027.jpg</NAME>
+		<CAPTION><![CDATA[Empad&#227;o]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>feijoada___.jpg</NAME>
+		<CAPTION><![CDATA[Feijoada]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>mandioca.JPG</NAME>
+		<CAPTION><![CDATA[Mandioca Frita]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>mingaudemilho.jpg</NAME>
+		<CAPTION><![CDATA[Cural de milho]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>Pato_no_Tucupi.JPG</NAME>
+		<CAPTION><![CDATA[Manisoba]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cafe.jpg</NAME>
+		<CAPTION><![CDATA[Caf&#233; da manh&#227; brasileiro]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>bolomandioca.jpg</NAME>
+		<CAPTION><![CDATA[Bolo de mandioca]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>Fish.jpg</NAME>
+		<CAPTION><![CDATA[Peixe frito]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>pasteis.jpg</NAME>
+		<CAPTION><![CDATA[Past&#233;is]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>moqueca.jpg</NAME>
+		<CAPTION><![CDATA[Moqueca de peixe]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>pavedechocolate.jpg</NAME>
+		<CAPTION><![CDATA[Pav&#234; de chocolate]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>Pernil.JPG</NAME>
+		<CAPTION><![CDATA[Pernil assado]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>picanha_tabua.JPG</NAME>
+		<CAPTION><![CDATA[Picanha na T&#225;bua]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>pudim_de_leite.JPG</NAME>
+		<CAPTION><![CDATA[Pudim de leite]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>risoto_.jpg</NAME>
+		<CAPTION><![CDATA[Risoto]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>tapioca1.jpg</NAME>
+		<CAPTION><![CDATA[Tapioca]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>risoles_2.JPG</NAME>
+		<CAPTION><![CDATA[Risoles]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>pato.jpg</NAME>
+		<CAPTION><![CDATA[Pato no Tucupi]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>2251670876_e62dfd8383.jpg</NAME>
+		<CAPTION><![CDATA[P&#227;o de queijo]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>rabanada07b.jpg</NAME>
+		<CAPTION><![CDATA[Rabanada]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>541638710_54af879ef0.jpg</NAME>
+		<CAPTION><![CDATA[Quindim]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>1471585477_f1a6eb8c73.jpg</NAME>
+		<CAPTION><![CDATA[Bolo Infantil colorido]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>salgadinhos.jpg</NAME>
+		<CAPTION><![CDATA[Salgadinhos]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>foto_bolo1.jpg</NAME>
+		<CAPTION><![CDATA[Bolo da Hello Kitty]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>foto_bolo2.jpg</NAME>
+		<CAPTION><![CDATA[Bolo de 15 anos]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cuscuz_gr.jpg</NAME>
+		<CAPTION><![CDATA[Cuscuz]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina001.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina002.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina003.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina004.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina005.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina006.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina007.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina008.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina009.jpg</NAME>
+		<CAPTION><![CDATA[Pudim de Leite]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina010.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina011.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina012.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina013.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina014.jpg</NAME>
+		<CAPTION><![CDATA[Salgadinhos]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina015.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina016.jpg</NAME>
+		<CAPTION><![CDATA[Pasteis]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina017.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina018.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina019.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina020.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina021.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina022.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina023.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina024.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina025.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina026.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina027.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina028.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina029.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina030.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina031.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina032.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina033.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina034.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina035.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina036.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina037.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina038.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina039.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina040.jpg</NAME>
+		<CAPTION><![CDATA[Salgadinhos]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina041.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina042.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina043.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina044.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina045.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina046.jpg</NAME>
+		<CAPTION><![CDATA[Bolo confeitado de Aniversario]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina047.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina048.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina049.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina050.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina051.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina052.jpg</NAME>
+		<CAPTION><![CDATA[Frango Assado]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina053.jpg</NAME>
+		<CAPTION><![CDATA[]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina054.jpg</NAME>
+		<CAPTION><![CDATA[Manjar]]></CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>cristina055.jpg</NAME>
+		<CAPTION><![CDATA[Bolo de Cenoura]]></CAPTION>
+	</IMAGE>
+</SIMPLEVIEWER_DATA>

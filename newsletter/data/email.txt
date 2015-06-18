@@ -1,0 +1,6 @@
+"email","date","ip"
+"weslley@wespadigital.com","1236575668","189.63.91.7"
+"info@wespadigital.com","1236575720","189.63.91.7"
+"wespadigital@hotmail.com","1237414690","200.101.120.154"
+"weslleya@wespadigital.com","1237493580","200.101.120.154"
+"bernard.kappert@orange.nl","1237832670","85.145.112.13"

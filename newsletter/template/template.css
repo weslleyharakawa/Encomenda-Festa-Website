@@ -1,0 +1,95 @@
+body {
+	font-size : 90%;
+	font-family : Arial, sans-serif;
+	color : #3D5066;
+	margin:2% 5%;
+}
+
+a{
+	color: #005CB1;
+	text-decoration: underline;
+}
+a:visited{
+	color: #005CB1;
+	text-decoration: underline;
+}
+a:active{
+	color: #FFA000;
+	text-decoration: underline;
+}
+a:hover,a:focus{
+	color: #FF6E00;
+	text-decoration: none;
+}
+a.normal {
+   	color : #005CB1; 
+   	text-decoration: underline; 
+}
+
+.center{
+	text-align:center;
+}
+.clear{
+	clear:both;
+}
+#header{
+	text-align:center;
+	border: 1px solid #e5e5e5;
+	background:#f9f9f9;
+}
+h2{
+	margin: 10px 10px 0 11px;
+}
+#newscontent{
+	padding: 5px 10px;
+	margin: 2px 10px;
+	border: 1px dashed #3D5066;
+}
+#attachment{
+	text-align:right;
+	margin-right:11px;
+}
+div.footer{
+		text-align:center;
+}
+#credits{
+	border: 1px solid #e5e5e5;
+	padding:2px;
+	margin-top:5px;
+	background: #f9f9f9;
+	text-align:center;
+}
+#origsent{
+	text-align:right;
+	margin:0 10px 3px 0;
+	font-style:italic;
+}
+	
+#signupmessage{
+	text-align:center;
+	margin:5px 2px;
+	padding:10px;
+	border: 1px solid #3D5066;
+	color:#003;
+}
+#signupforms{
+	float:left;
+	width:17.7em;
+}
+
+fieldset{
+	border: 1px solid #e5e5e5;
+}
+form#subform{
+	width:17.5em;
+}
+form#subform input.box{
+	font-size:1em;
+}
+#subcontent{
+	margin-left:18em;
+}
+ul#listnewsletters li{
+	list-style:none;
+	margin: 0.5em 2em;
+}

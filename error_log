@@ -1,0 +1,3 @@
+[09-Mar-2009 14:00:30] PHP Warning:  include(obrigado.htm) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/encomend/public_html/contact.php on line 67
+[09-Mar-2009 14:00:30] PHP Warning:  include(obrigado.htm) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/encomend/public_html/contact.php on line 67
+[09-Mar-2009 14:00:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'obrigado.htm' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/encomend/public_html/contact.php on line 67

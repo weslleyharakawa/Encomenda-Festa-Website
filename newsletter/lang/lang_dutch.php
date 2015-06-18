@@ -1,0 +1,158 @@
+<?php
+/* translation by CFconsultancy */
+
+
+/*headder Bar */
+$lang_head_settings="Algemene instellingen";
+$lang_send_out_mail="Mail versturen";
+$lang_edit_mailing_list="Bewerk Mailling lijst";
+$lang_about="Over";
+$lang_help="Help";
+$lang_logout="Uitloggen";
+/*logging setings */
+$lang_login_manage="Beheer van mailling lijsten";
+$lang_login_username="Naam";
+$lang_login_passwords="Wachtwoord";
+/*main setings */
+$lang_main_updated="De algemene instellingen zijn opgeslagen";
+$lang_main_settings="Algemene instellingen paneel";
+$lang_main_global="Verander de globale instellingen hier";
+$lang_main_vote="Stemmen";
+$lang_main_diagnostics="Fout report";
+$lang_main_script="Script instelling";
+$lang_main_database="Database";
+$lang_main_email="Email instelling";
+$lang_main_security="Beveiliging instelling";
+$lang_main_server="Mail Server";
+$lang_main_script_about="Dit zijn de verschillende instellingen die nodig zijn om het mail script te laten functioneren. In het geval van problemen kunt je de help doorlezen .";
+$lang_main_website="Homepage";
+$lang_main_website_help="Naam van de Homepage met de directory waarin de mailling lijst staat !";
+$lang_main_relative="Relative pad :";
+$lang_main_relative_help="Dit is het pad die verteld waarin de maillinglist staat !";
+$lang_main_string="Relative String :";
+$lang_main_string_help="Hier de bestandsnaam waar je de mailling lijst aanroept met <B>?page=mail&</B> erachter !";
+$lang_main_databasefile="Database bestandsnaam :";
+$lang_main_databasefile_help="De naam ven het database tekst bestand.";
+$lang_main_popup_help="Als je de bevestigingen in een popup venster wilt laten zien . Hiermee voorkom je de relatieve string .";
+$lang_main_popup="Enable popup :";
+$lang_main_Language="Selecteer taal :";
+$lang_main_Language_help="Hier kunt je een taal selecteren";
+$lang_main_databaseset="Database instellingen";
+$lang_main_databasesetex="Specificeer hier of je een tekst of een Mysql database wilt gebruiken .";
+$lang_main_mysql="Gebruik MySQL";
+$lang_main_mysql_help="Wilt je Mysql wel of niet gebruiken";
+$lang_main_hostname="Hostnaam :";
+$lang_main_hostname_help="Hostnaam van de database server";
+$lang_main_databaseuser="Database Gebruikersnaam :";
+$lang_main_databaseuser_help="Je gebruikersnaam om in loggen in de database";
+$lang_main_databasepass="Database wachtwoord :";
+$lang_main_databasepass_help="Je wachtwoord van de database";
+$lang_main_databasename="Database naam:";
+$lang_main_databasename_help="Naam van de database waarin zich de tabellen bevinden";
+$lang_main_emailex="Hier kun je de verschillende boodschappen en gedragingen invullen bij het versturen van de mailing .";
+$lang_main_emailname="Afzender naam :";
+$lang_main_emailname_help="Naam van de verstuurder van de mailling lijst !";
+$lang_main_emailadress="Verstuur Mail adres :";
+$lang_main_emailadress_help="Email adres van de verstuurder !";
+$lang_main_thankstitle="Bedankt email titel :";
+$lang_main_thankstitle_help="Email titel voor bedankt boodschappen";
+$lang_main_thanksmessage="Bedankt email boodschap :";
+$lang_main_thanksmessage_help="Dit is de boodschap die de abonnee krijgt wanneer hij of zij succesvol is geregistreerd !";
+$lang_main_unsubscribe="Opzeg boodschap :";
+$lang_main_unsubscribe_help="Dit is de abbonnement opzeg boodschap !";
+$lang_main_verify="Bevestig email abbonnement :";
+$lang_main_verify_help="Dit is de boodschap die in de mail verschijnt om een abbonnement te bevestigen !";
+$lang_main_includeunsubscribe="Voeg opzeg link toe :";
+$lang_main_includeunsubscribe_help="In de mail verschijnt onderaan een link om op te zeggen .";
+$lang_yes="Ja";
+$lang_no="Nee";
+$lang_main_thankmail="Bedankt boodschap :";
+$lang_main_thankmail_help="Verstuur bedank boodschap bij bevestiging .";
+$lang_main_verification="Email verifikatie :";
+$lang_main_verification_help="De abonnee email adres word alleen toegevoegd als de gebruiker zichzelf heeft bevestig .";
+$lang_main_securityex="Hier kun je de gebruikersnaam en wachtwoord invullen om toegang te krijgen tot deze admin .";
+$lang_main_username="Gebruikersnaam :";
+$lang_main_username_help="Gebruikersnaam voor de admin";
+$lang_main_password="Wachtwoord :";
+$lang_main_password_help="Wachtwoord voor de admin";
+$lang_main_mailserver="Mail Server";
+$lang_main_mailserverex="Hier kun je de methode selecteren om de mail te versturen . In de meeste gevallen kun je dePHP mail functie gebruiken .";
+$lang_main_selectmethod="Selecteer methode voor versturen mailing :";
+$lang_main_selectmethod_help="Selecteer methode voor versturen mailing";
+$lang_main_sendmail="Sendmail Pad";
+$lang_main_sendmail_help="Vul hier het sendmail pad in. Als u je deze niet weet dan kun je je het beste in verbinding stellen met de je host bedrijf";
+$lang_main_smtpserver="SMTP Server naam";
+$lang_main_smtpserver_help="Dit is het adres van de SMTP server";
+$lang_main_smtpauthentication="Verificatie";
+$lang_main_smtpauthentication_help="Als je SMTP server verificatie moet hebben vul je hier je gebruikersnaam en wachtwoord in";
+$lang_main_smtpuser="Gebruikersnaam";
+$lang_main_smtppass="Wachtwoord";
+$lang_main_update="Update";
+/*sendmail */
+$lang_sendmail_suberror="Vul aub een onderwerp in";
+$lang_sendmail_fillerror="Vul aub text of html in";
+$lang_sendmail_send="Mail versturen";
+$lang_sendmail_sendex="Vul hier alle mogenlijkheden in om de mail te versturen";
+$lang_sendmail_sendselect="Selecteer hier het type email die je wil versturen en vul de bijbehorende gegevens in .";
+$lang_sendmail_from="Email van";
+$lang_sendmail_subject="Onderwerp";
+$lang_sendmail_text="Tekst Versie";
+$lang_sendmail_textversion="<strong>Tekst Versie </strong>of Email : <br> <font color=#999999>Vul hier de tekst versie van je email bericht </font>";
+$lang_sendmail_htmlversion="<strong>HTML Version</strong> of Email : <br> <font color=#999999>Vul hier de html code en tekst in van je email bericht</font>";
+$lang_sendmail_selecttemplate="Selecteer eerst een template";
+$lang_sendmail_usetemplate="Gebruik Templates";
+$lang_sendmail_selecttemplate="Selecteer een template";
+$lang_sendmail_errortemplate="Error : Kan de templates directory niet benaderen !!!";
+$lang_sendmail_helptemplate="Om te weten hoe de templates te veranderen ga naar de help pagina .";
+$lang_sendmail_attachment="Attachment";
+$lang_sendmail_sendbutton="Versturen";
+/*edit maillist members */
+$lang_edit_delete="<br><br><center>Het emailadres :<strong>{email}</strong> was succesvol verwijderd !!!</center><br><br>";
+$lang_edit_added="<br><br><center>Het emailadres :<strong>{email}</strong> is succesvol toegevoegd !!!</center><br><br>";
+$lang_edit_adit="<br><br><center>Het emailadres :<strong>{email}</strong> is bewerkt !!!</center><br><br>";
+$lang_edit_list="Bewerk Mailing Lijst";
+$lang_edit_listex="Je kunt toevoegen , zoeken en entries bewerken vanaf hier  .";
+$lang_edit_new="Vul het nieuwe email adres in";
+$lang_edit_expression="Vul de expressie in om te zoeken in de database";
+$lang_edit_correct="Vul het correcte email adres in :";
+$lang_edit_delete="Wil je dit mail adres verwijderen :";
+$lang_edit_jump="---- Ga naar ----";
+$lang_edit_import="Importeer";
+$lang_edit_add="Voeg abbonnee toe";
+$lang_edit_search="Zoeken";
+$lang_edit_refresh="Refresh";
+$lang_edit_editdata="Bewerk de Database";
+$lang_edit_editdataex="Selecteer de link welke u wilt bewerken .";
+$lang_edit_submitted="Toegevoegd op";
+$lang_edit_ip="Ip Adres";
+$lang_edit_ipedit="Bewerk";
+$lang_edit_ipdelete="Verwijder";
+/*diagnostics */
+$lang_diag_simple="Simpele Diagnostics";
+$lang_diag_simpleex="Op deze pagina kun je simpel checken of alle bestanden schrijfrechten hebben .";
+$lang_diag_status="Status";
+$lang_diag_checking="Checking / Fout";
+$lang_diag_globals="Als er een fout is dan heeft het bestand geen schrijfrechten. Verander de rechten .";
+$lang_diag_data="Als er een fout is dan heeft <?php echo $database_file; ?> geen schrijfrechten. Verander de rechten .";
+$lang_diag_temp="Als er een fout is dan heeft de temp. directory geen schrijfrechten . Verander de rechten";
+/*import */
+$lang_import_adress="Importeer email adressen";
+$lang_import_adressex="Hier kun je email adressen importeren vanuit een tekstbestand.";
+$lang_import_import="Bestand om te importeren";
+$lang_import_import_help="Selecteer het bestand waarvan je de email adressen wil importeren . De email adressen zijn simpel opgeslagen lijn voor lijn .";
+$lang_import_next="Volgende";
+/*mainnn inc files */
+$lang_email_thanks="Bedankt voor het registreren";
+$lang_emailexist_error="Opgave fout !!!";
+$lang_emailexist_adress="Het email adres {email} bevind zich al in de database .";
+$lang_emailexist_adress_error="Het email adres {email} bestaat niet in de database . ";
+$lang_emailreg_verify="Een email is gestuurd naar {email} .Bevestig aub door het klikken op de link in de email .";
+$lang_emailreg_done="Het email adres {email} is succesvol toegevoegd aan de database .";
+$lang_emailremove_removed="Email verwijderd";
+$lang_emailremove_adress="Het email adres {email} is succesvol verwijdert uit de database .";
+/*Sending */
+$lang_send_mails="Versturen emails .";
+$lang_send_sending="EZS Mailing list is emails aan het versturen ..";
+$lang_send_mailswait="Even wachten ... <br><br> Emails aan het versturen";
+$lang_send_done="Versturen is klaar <br><br> <a href='javascript:window.close();' class='menulink'>Sluit venster</a>";
+?>
